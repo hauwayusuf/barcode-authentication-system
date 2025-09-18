@@ -1,0 +1,12 @@
+{
+  "name": "attendance-server",
+  "version": "1.0.0",
+  "description": "Backend server for University Attendance Management System",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "dependencies": {}
+}
